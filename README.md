@@ -8,3 +8,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alpatyk&layout=pie)](https://github.com/alpatyk/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alpatyk&hide_progress=true)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/alpatyk/github-readme-stats)
